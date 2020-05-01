@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VirusIO</string>
+    <string name="level">Level One</string>
+    <string name="close">Quit</string>
+    <string name="mode_ready">Ready</string>
+    <string name="mode_pause">Pause</string>
+    <string name="mode_lose">Lose</string>
+    <string name="mode_win">Win</string>
+    <string name="score">0</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_resume">Resume</string>
+    <string name="message_stopped">Stopped</string>
+    <string name="menu_exit">Exit</string>
+    <string name="read">Read</string>
+    <string name="level_two">Level Two</string>
+    <string name="level_three">Level Three</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="Write">Write</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524979677864",
+    "firebase_url": "https://virusio.firebaseio.com",
+    "project_id": "virusio",
+    "storage_bucket": "virusio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524979677864:android:19582ab350337c15f9709d",
+        "android_client_info": {
+          "package_name": "com.example.virusio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524979677864-jtkgat1l2lbjpojsuntf8ivc305jrmj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtlRHXpqCCvQ3cySK1wwBeA2x3Mx9D7DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524979677864-jtkgat1l2lbjpojsuntf8ivc305jrmj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

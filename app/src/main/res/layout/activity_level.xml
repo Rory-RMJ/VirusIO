@@ -1,0 +1,38 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <com.example.virusio.GameView
+        android:id="@+id/gamearea"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/gameLayout">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/score"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="3px"
+            android:gravity="top"
+            android:text="@string/score"
+            android:textColor="#ffffffff"
+            android:textSize="24sp"
+            android:visibility="visible"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/text"
+            android:visibility="visible"
+            android:layout_centerInParent="true"
+            android:gravity="center_horizontal"
+            android:textColor="#ffffffff"
+            android:textSize="20sp"/>
+    </RelativeLayout>
+</FrameLayout>
